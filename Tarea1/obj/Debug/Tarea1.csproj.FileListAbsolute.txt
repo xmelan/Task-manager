@@ -1,0 +1,13 @@
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.Form1.resources
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\euseb\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.exe.config
+C:\Users\euseb\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.exe
+C:\Users\euseb\source\repos\Tarea1\Tarea1\bin\Debug\Tarea1.pdb
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.exe
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\euseb\source\repos\Tarea1\Tarea1\bin\Debug\System.CodeDom.dll
+C:\Users\euseb\source\repos\Tarea1\Tarea1\bin\Debug\System.CodeDom.xml
+C:\Users\euseb\source\repos\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CopyComplete
